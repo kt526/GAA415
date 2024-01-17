@@ -7,3 +7,5 @@ This is a Quarto website.
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 **Quarto Websites** are a convenient way to publish groups of documents.
+
+Brimming with creative inspiration, how-to projects, and useful information to enrich your everyday life, pursue your interests and passions at **Quarto**.com.
