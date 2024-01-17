@@ -5,3 +5,5 @@ title: "GAA415"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+**Quarto Websites** are a convenient way to publish groups of documents.
